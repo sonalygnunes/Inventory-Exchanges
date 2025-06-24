@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="descripton" label="Descripton" language="en" table="x_1554477_test_test">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>descripton</element>
+            <help/>
+            <hint/>
+            <label>Descripton</label>
+            <language>en</language>
+            <name>x_1554477_test_test</name>
+            <plural>Descriptons</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-23 13:20:33</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Descripton</sys_name>
+            <sys_package display_value="Teste" source="x_1554477_test">56744231835eee50bab6b9c6feaad38f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Teste">56744231835eee50bab6b9c6feaad38f</sys_scope>
+            <sys_update_name>sys_documentation_x_1554477_test_test_descripton_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-23 13:20:33</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
