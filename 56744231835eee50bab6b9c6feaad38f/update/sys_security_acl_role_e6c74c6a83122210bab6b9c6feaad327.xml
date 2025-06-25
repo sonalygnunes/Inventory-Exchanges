@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-25 12:10:06</sys_created_on>
+        <sys_id>e6c74c6a83122210bab6b9c6feaad327</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1554477_test_casaco.x_1554477_test.casaco_user</sys_name>
+        <sys_package display_value="Teste" source="x_1554477_test">56744231835eee50bab6b9c6feaad38f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Teste">56744231835eee50bab6b9c6feaad38f</sys_scope>
+        <sys_security_acl display_value="x_1554477_test_casaco">eec74c6a83122210bab6b9c6feaad323</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e6c74c6a83122210bab6b9c6feaad327</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-25 12:10:06</sys_updated_on>
+        <sys_user_role display_value="x_1554477_test.casaco_user" name="x_1554477_test.casaco_user">96c70c6a83122210bab6b9c6feaad3e2</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

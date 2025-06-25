@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <applies_to/>
+        <condition/>
+        <controlled_by_refs/>
+        <decision_type>allow</decision_type>
+        <description>Default access control on x_1554477_test_casaco</description>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_1554477_test_casaco</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-25 12:10:06</sys_created_on>
+        <sys_id>e2c74c6a83122210bab6b9c6feaad32b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1554477_test_casaco</sys_name>
+        <sys_package display_value="Teste" source="x_1554477_test">56744231835eee50bab6b9c6feaad38f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Teste">56744231835eee50bab6b9c6feaad38f</sys_scope>
+        <sys_update_name>sys_security_acl_e2c74c6a83122210bab6b9c6feaad32b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-25 12:10:06</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
